@@ -17,6 +17,8 @@ Inputs and outputs
 (Inputs)
 Right button
 Left button
+RightbuttonISR
+LeftbuttonISR
 
 CircuitPlayground.playTone(500,3000) [lose sound]
 All Neopixels red [lose screen]
