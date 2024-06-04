@@ -24,3 +24,7 @@ CircuitPlayground.playTone(500,3000) [lose sound]
 All Neopixels red [lose screen]
 CircuitPlayground.playTone(5000,3000) [win sound]
 All Neopixesl green [win screen]
+
+
+
+Press the right button to start the game.  There will be a red light that bounces back and forth between the two sides of the CPX board using the Neopixels.  You need to press the corresponding sides button before it reaches the last Neopixel or you will lose the game. There are 5 levels, and to advance to the next level you need to bounce the ball 5 times in the current level.  If you complete all 5 levels you will reach the win screen!
